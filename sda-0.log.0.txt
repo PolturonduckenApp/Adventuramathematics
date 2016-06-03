@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-06-02T16:47:56</date>
+  <millis>1464900476922</millis>
+  <sequence>221</sequence>
+  <logger>com.ti.eps.sda.vendor1.SDAVendor1Impl</logger>
+  <level>INFO</level>
+  <class>com.ti.eps.sda.vendor1.SDAVendor1Impl</class>
+  <method>releaseLicense</method>
+  <thread>12</thread>
+  <message>Released license</message>
+</record>
+</log>
